@@ -8,7 +8,7 @@ This project aims to predict the age of crabs based on physical attributes using
 - Transform skewed features using square root transformations
 - Encode categorical features
 - Train and evaluate multiple regression models
-- Generate final predictions for test data submission
+- Generate final predictions 
 
 ## Dataset
 - **Train file**: `train.csv`
